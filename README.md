@@ -1,4 +1,4 @@
-**Extension Blocker Without Bookmarklets**
+# Extension Blocker Without Bookmarklets
 
 How to set up [swamp]! Just read the pins for the "kajig" in discord.gg/unblock smh...
 
